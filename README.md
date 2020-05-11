@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/fernandesmaysaln20/Contoso%20Air/_apis/build/status/maysaln20.ContosoAir?branchName=master)](https://dev.azure.com/fernandesmaysaln20/Contoso%20Air/_build/latest?definitionId=5&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
